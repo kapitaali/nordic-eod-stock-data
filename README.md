@@ -1,4 +1,4 @@
-# Nordic EOD stock data
+# NASDAQ OMX Nordic EOD stock data
 Backtest your algorithms with NASDAQ OMX Nordic EOD stock data. Cutoff date is Nov 15th 2015.
 
 This dataset is from the NASDAQ public API. It only allows you to get historical data up to 10 years, so everything before that is cut off. 
